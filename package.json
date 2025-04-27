@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/Sviatik17/ebRaw-server#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "dotenv": "^16.5.0",
+    "env": "^0.0.2",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.0"
   }
 }
